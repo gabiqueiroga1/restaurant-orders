@@ -1,6 +1,6 @@
 # 🍽️ API de Pedidos - Restaurante - CP4
 
-# Integrantes do Grupo
+## Integrantes do Grupo
 
 - Gabriela Queiroga - RM 560035  
 - Maria Eduarda Ferrés - RM 560418
