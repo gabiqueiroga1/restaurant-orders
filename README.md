@@ -2,6 +2,7 @@
 
 ## Nome e RM
 -Gabriela Queiroga Cocuzza da Silva RM560035
+---
 -Maria Eduarda Ferrés RM560418
 
 ## 📌 Descrição do Projeto
