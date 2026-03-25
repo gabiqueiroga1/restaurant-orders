@@ -64,7 +64,7 @@ O projeto foi estruturado em camadas:
 - Java 21  
 - Spring Boot  
 - Maven  
-- Postman (só para testar)  
+- Postman (só para testes)  
 
 ---
 ## 💡 Decisões de Projeto
